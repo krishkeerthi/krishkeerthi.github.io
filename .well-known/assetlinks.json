@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.krish.android.fitactions",
-    "sha256_cert_fingerprints":
-    ["F7:1F:57:C0:BD:27:64:43:27:3E:B6:76:1F:62:C2:49:E4:BA:A4:53:05:A0:4A:06:21:BA:CE:78:F6:A8:96:BC"]
-  }
-}]
